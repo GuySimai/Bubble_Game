@@ -1,12 +1,13 @@
 # Bubble_Project
-<img width="569" alt="Screen Shot 2024-11-08 at 12 41 27" src="https://github.com/user-attachments/assets/e8ff55a6-45f1-42d5-b4bb-e1889d36706e">
 
 ## Project Description
 I developed a bubbleֿ\ball game application where players can interact with various controls to add, remove, pause, and manage balls on the screen. The game includes several key features:
 
 - Add Ball: A player can enter their name and start the game, where each click on the button generates a new ball with random size, color, and movement patterns.  
 - Remove Ball: Allows removing the last added ball while the other balls continue moving.  
-- Pause Last Ball: Pauses the movement of the last ball added.  
+- Pause Last Ball: Pauses the movement of the last ball added.
+<img width="489" alt="Screen Shot 2024-11-08 at 12 41 27" src="https://github.com/user-attachments/assets/e8ff55a6-45f1-42d5-b4bb-e1889d36706e">
+
 - About Box: Displays a randomly chosen information box with unique font, text, and color for each interaction.
 <img width="489" alt="Screen Shot 2024-11-08 at 12 43 05" src="https://github.com/user-attachments/assets/22751e27-8487-4505-8ddc-5692cac05e73">
 
