@@ -10,6 +10,6 @@ End Game: Clears the game board and prepares for a new game session.
 Database Management: Utilizes ADO.NET or Entity Framework to store player data, including player names and play durations.
 
 ## Technologies Used
-Visual Studio 2022 with .NET and C# for application development
-ADO.NET / Entity Framework for database interactions
-Bitmap and Graphics classes for rendering balls and animations
+- Visual Studio 2022 with .NET and C# for application development  
+- ADO.NET / Entity Framework for database interactions  
+- Bitmap and Graphics classes for rendering balls and animations  
