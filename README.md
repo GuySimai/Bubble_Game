@@ -11,7 +11,7 @@ I developed a bubbleֿ\ball game application where players can interact with var
 
    
 - End Game: Clears the game board and prepares for a new game session.
-- Database Management: Utilizes ADO.NET or Entity Framework to store player data, including player names and play durations.  
+- Database Management: Utilizes ADO.NET to store player data, including player names and play durations.  
 <img width="508" alt="Screen Shot 2024-11-08 at 12 42 04" src="https://github.com/user-attachments/assets/f94b4c98-265e-4b1b-ad95-ffc56a9e2320">
 
 - Exit Game (E Button): Prompts the user to confirm exit with a message box. If confirmed, the application closes.
@@ -19,6 +19,6 @@ I developed a bubbleֿ\ball game application where players can interact with var
 
 
 ## Technologies Used
-- Visual Studio 2022 with .NET and C# for application development  
-- ADO.NET / Entity Framework for database interactions  
-- Bitmap and Graphics classes for rendering balls and animations  
+- Visual Studio 2022 with .NET and C# for application development.  
+- ADO.NET for database interactions.  
+- Bitmap and Graphics classes for rendering balls and animations.  
