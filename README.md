@@ -1,4 +1,4 @@
-# Bubble_Project
+# Bubble_Game
 I developed a bubbleֿ\ball game application where players can interact with various controls to add, remove, pause, and manage balls on the screen. The game includes several key features:
 
 - Add Ball: A player can enter their name and start the game, where each click on the button generates a new ball with random size, color, and movement patterns.  
