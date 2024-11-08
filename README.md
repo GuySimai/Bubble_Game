@@ -1,4 +1,5 @@
 # Bubble_Project
+<img width="579" alt="Screen Shot 2024-11-08 at 12 50 05" src="https://github.com/user-attachments/assets/4154d4c4-385a-47f4-a75a-0fb34be17c67">
 
 ## Project Description
 I developed a bubbleֿ\ball game application where players can interact with various controls to add, remove, pause, and manage balls on the screen. The game includes several key features:
